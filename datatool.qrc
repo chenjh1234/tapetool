@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+     
+    <file>images/paraconfig.png</file>
+    <file>images/tapeconfig.png</file>
+     <file>images/tapeicon.png</file>
+    <file>images/licconfig.png</file>
+    <file>images/movefirst.png</file>
+    <file>images/about.png</file>
+    <file>images/runstart.png</file>
+    <file>images/runstop.png</file>
+    <file>images/runpause.png</file>
+    <file>images/readdump.png</file>
+    <file>images/dumponly.png</file>
+    <file>images/skipf.png</file>
+    <file>images/skipr.png</file>
+    <file>images/bskipf.png</file>
+    <file>images/bskipr.png</file>
+    <file>images/rewind.png</file>
+    <file>images/status.png</file>
+    <file>images/unload.png</file>
+    <file>images/copyf.png</file>
+    <file>images/copyr.png</file>
+    <file>images/eof.png</file>
+    <file>images/options.png</file>
+    <file>images/help.png</file>
+</qresource>
+</RCC>
